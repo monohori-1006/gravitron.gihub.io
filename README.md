@@ -1,1 +1,1 @@
-# gravitron.gihub.io
+# gravitron.github.io
